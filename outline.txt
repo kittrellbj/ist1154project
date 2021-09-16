@@ -1,0 +1,28 @@
+---Overall Site Plan---
+
+I'll have an index.html page to display a small introduction and explain the links in the navigation. I'm envisioning a two-column layout for the whole page split about 75%/25% left to right. Probably blue, white, and grays as the color theme.
+
+Directory/file structure:
+home/
+├── css/
+│   └ syles.css
+├── img/
+│   ├ mainphoto.jpg
+│   ├ hobbyphoto[1...].jpg
+│   └ projectphoto[1...].jpg
+├ index.html 
+├ resume.html 
+├ hobbies.html 
+├ projects.html 
+└ contact.html 
+
+Page descriptions:
+- index.html - main home page. Explain other links in brief.
+- resume.html - resume information.
+- hobbies.html - descriptions and photos of hobbies.
+- projects.html - descriptions and photos of projects. Links to relevant project websites.
+- contact.html - web-safe (public facing) contact information.
+
+Other considerations:
+
+I'm thinking of a little basic gradient animation in the body background and probably some sans-serif Google webfonts. Big, blocky letters for headings and a sharp, clean sans font for text. Full-justified text to square out the elements might look nice, but I'll experiment.
